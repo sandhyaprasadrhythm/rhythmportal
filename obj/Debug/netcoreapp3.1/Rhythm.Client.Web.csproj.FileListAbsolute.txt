@@ -1,0 +1,11 @@
+/home/test/Documents/Rhythm/Roadmap/trunk/src/Client/Rhythm.Client.Web/bin/Debug/netcoreapp3.1/Rhythm.Client.Web
+/home/test/Documents/Rhythm/Roadmap/trunk/src/Client/Rhythm.Client.Web/bin/Debug/netcoreapp3.1/Rhythm.Client.Web.deps.json
+/home/test/Documents/Rhythm/Roadmap/trunk/src/Client/Rhythm.Client.Web/bin/Debug/netcoreapp3.1/Rhythm.Client.Web.runtimeconfig.json
+/home/test/Documents/Rhythm/Roadmap/trunk/src/Client/Rhythm.Client.Web/bin/Debug/netcoreapp3.1/Rhythm.Client.Web.runtimeconfig.dev.json
+/home/test/Documents/Rhythm/Roadmap/trunk/src/Client/Rhythm.Client.Web/bin/Debug/netcoreapp3.1/Rhythm.Client.Web.dll
+/home/test/Documents/Rhythm/Roadmap/trunk/src/Client/Rhythm.Client.Web/bin/Debug/netcoreapp3.1/Rhythm.Client.Web.pdb
+/home/test/Documents/Rhythm/Roadmap/trunk/src/Client/Rhythm.Client.Web/obj/Debug/netcoreapp3.1/Rhythm.Client.Web.csprojAssemblyReference.cache
+/home/test/Documents/Rhythm/Roadmap/trunk/src/Client/Rhythm.Client.Web/obj/Debug/netcoreapp3.1/Rhythm.Client.Web.AssemblyInfoInputs.cache
+/home/test/Documents/Rhythm/Roadmap/trunk/src/Client/Rhythm.Client.Web/obj/Debug/netcoreapp3.1/Rhythm.Client.Web.AssemblyInfo.cs
+/home/test/Documents/Rhythm/Roadmap/trunk/src/Client/Rhythm.Client.Web/obj/Debug/netcoreapp3.1/Rhythm.Client.Web.dll
+/home/test/Documents/Rhythm/Roadmap/trunk/src/Client/Rhythm.Client.Web/obj/Debug/netcoreapp3.1/Rhythm.Client.Web.pdb
