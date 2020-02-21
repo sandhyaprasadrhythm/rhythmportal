@@ -6,7 +6,7 @@ namespace Rhythm.Client.Web
     {
         static void Main(string[] args)
         {  
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! how are you"); 
         }
     }
 }
